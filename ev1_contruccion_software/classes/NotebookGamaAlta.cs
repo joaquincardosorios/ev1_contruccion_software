@@ -21,7 +21,7 @@ namespace ev1_contruccion_software.classes
 
         public string iniciarApp()
         {
-            return "Se está ejecutando Fusion 360";
+            return "Se está ejecutando Fusion 360 sin problemas";
         }
 
         public string iniciarJuego()
